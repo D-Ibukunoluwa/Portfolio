@@ -389,15 +389,14 @@ a.project-card {
   height: 100%;
   object-fit: contain;
   padding: 2rem;
-  mix-blend-mode: luminosity;
 }
 
 .naijaeats-logo {
-  width: 55%;
+  width: 100%;
 }
 
 .synkup-logo {
-  width: 80%;
+  width: 100%;
 }
 
 /* ================================
