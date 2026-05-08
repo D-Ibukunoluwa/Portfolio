@@ -148,7 +148,7 @@ nav a:hover {
 }
 
 .hero h1 {
-  font-size: clamp(3rem, 8vw, 6rem);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
   font-weight: 900;
   line-height: 1.1;
   margin-bottom: 1.5rem;
@@ -329,6 +329,7 @@ section {
 }
 
 .project-card h3 {
+  font-family: 'Playfair Display', serif;
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 0.75rem;
@@ -388,10 +389,11 @@ a.project-card {
   height: 100%;
   object-fit: contain;
   padding: 2rem;
+  mix-blend-mode: luminosity;
 }
 
 .naijaeats-logo {
-  width: 100%;
+  width: 55%;
 }
 
 .synkup-logo {
